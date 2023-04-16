@@ -2,14 +2,6 @@
     background-color: rgb(231, 151, 151);
 }
 
-.banner-img {
-    background-image: url(../images/bike-3.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-    width: 100%;
-}
-
 .rating-icon {
     width: 20px;
     filter: sepia(100%) saturate(200%);
