@@ -1,3 +1,28 @@
 .bikerz-zone-light-red {
     background-color: rgb(231, 151, 151);
 }
+
+.banner-img {
+    background-image: url(../images/bike-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.rating-icon {
+    width: 20px;
+    filter: sepia(100%) saturate(200%);
+}
+
+.btn-bz-danger {
+    background-color: #dc3848;
+    border-color: #dc3848;
+    color: #fff;
+}
+
+.btn-bz-danger:hover {
+    color: #ffffff;
+    background-color: goldenrod;
+    border-color: #947b7b;
+}
